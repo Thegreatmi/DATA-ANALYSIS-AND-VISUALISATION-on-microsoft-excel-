@@ -8,4 +8,4 @@ Shipping status per outlet type
 Delivery agents performing below expectation
 Popular states by sales channel
 Vip customers
-Sales volume by sales channel and country
+Sales volume by sales channel and country.
